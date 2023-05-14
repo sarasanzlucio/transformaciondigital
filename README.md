@@ -1,7 +1,7 @@
 # Transformación Digital
 Repositorio de código para la asignatura de Transformación Digital.
 
-Sigue los pasos enumerados a continuación sobre este repositorio para completar la subida de los ejercicios a este repositorio.
+Sigue los pasos enumerados a continuación sobre este repositorio.
 
 ## 1. Clónate el repositorio
 Para clonar el repositorio basta instalar la aplicación [Git Bash](https://gitforwindows.org/) en el ordenador para poder trabajar con Git fácilmente. Sitúate en el directorio de tu ordenador donde quieras ubicar este repositorio y abre la terminal de Git Bash donde ejecutarás el siguiente comando:
