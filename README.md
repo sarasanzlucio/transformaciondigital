@@ -23,4 +23,4 @@ Una vez hayas finalizado deberás subir los cambios al repositorio *en la rama q
 
 <code>git push</code>
 
-Hola esto es una prueba de que me sale, soy paulo.git 
+# Hola esto es una prueba de que me sale, soy paulo.git 
