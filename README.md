@@ -23,3 +23,4 @@ Una vez hayas finalizado deberás subir los cambios al repositorio *en la rama q
 
 <code>git push</code>
 
+# Modificaciones en el Readme by Miguel
