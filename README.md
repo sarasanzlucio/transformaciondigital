@@ -1,5 +1,6 @@
 # Transformación Digital
 Repositorio de código para la asignatura de Transformación Digital. NimrodAbraham
+hasta luego
 
 Sigue los pasos enumerados a continuación sobre este repositorio para completar la subida de los ejercicios a este repositorio.
 
