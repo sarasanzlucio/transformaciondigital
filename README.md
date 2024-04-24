@@ -24,3 +24,5 @@ Una vez hayas finalizado deberás subir los cambios al repositorio *en la rama q
 <code>git push</code>
 
 ## Cambios realizados por Noelia el 24/04/2024
+
+##Visto por kailei
