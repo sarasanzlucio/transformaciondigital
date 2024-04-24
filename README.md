@@ -17,6 +17,8 @@ Sitúate en la rama que acabas de crear y sitúa el fichero.
 ## 4. Haz commit y push de los cambios
 Una vez hayas finalizado deberás subir los cambios al repositorio *en la rama que acabas de crear* de manera que estos sean visibles para su evaluación.
 
+version Ana Cristina
+
 <code>git add <ejercicios_completados></code>
 
 <code>git commit -m <Mensaje_de_subida></code>
